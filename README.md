@@ -1,4 +1,4 @@
-# <Coding Study Guide Webpage>
+# Coding Study Guide Webpage
 
 ## Description
 
